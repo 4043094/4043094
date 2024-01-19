@@ -12,5 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# README
-This is my initial readme.
+# About Me
+### My Name
+My name is @4043094 and I am new to GitHub.
+### My Intrests
+I am intrested in computer programming and algerbra.
+### My Repos
+Currently, I own 3 repositories: alien-invasion, learning-log, and 4043094.
+### My Goals
+Currenty, I want to build a website that allows you to track your learning.
