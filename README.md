@@ -18,6 +18,6 @@ My name is @4043094 and I am new to GitHub.
 ### My Intrests
 I am intrested in computer programming and algerbra.
 ### My Repos
-Currently, I own 3 repositories: [alien-invasion](4043094.github.io/alien-invasion), learning-log, and 4043094.
+Currently, I own 3 repositories: [alien-invasion](4043094.github.io/alien-invasion), [learning-log](4043094.github.io/learning-log), and 4043094.
 ### My Goals
 Currenty, I want to build a website that allows you to track your learning.
